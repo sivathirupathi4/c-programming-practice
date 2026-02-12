@@ -1,5 +1,5 @@
-# c-programming-practice
-Day 1: Learned and practiced the basic fundementals of c
+## c-programming-practice
+# Day 1: Learned and practiced the basic fundementals of c
 
 This repository contains my daily C programming practice programs.
 
@@ -8,7 +8,7 @@ This repository contains my daily C programming practice programs.
 - Operators
 - Control Statements
 
-## Day 2 - Decision Making Statements
+# Day 2 - Decision Making Statements
 
 Topics Covered:
 - Nested if-else
