@@ -1,16 +1,35 @@
-#include <stdio.h>
-int main(){
-    int x,y,z,mid;
-    printf("Enter the 3 numbers: ");
-    scanf("%d %d %d",&x,&y,&z);
+#include<stdio.h>
+int main()
+{   
+    int num,amount;
+    int balance=20000;
+    printf("\t\t\t ::: Welome to 26001B Bank:::\n");
+    printf("1.check balance\n 2.deposite\n 3.withdraw\n 4.exit\n ");
+  printf("please select any one from the option\n");
+  scanf("%d",&num);
+    if(num==1){
+        printf("your bank balance is: %d\n",balance);
+    }
+    
+    else if(num==2){
+        printf("Enter the amount: ");
+        scanf("%d",&amount);
+        balance=balance+amount;
+        printf("your amt credited sucessfully: %d\n",amount);
+        printf("your bank balance is : %d\n",balance);
+    }
+    else if(num==3){
+        printf("Enter the amount: \n");
+        scanf("%d",&amount);
+        balance=balance-amount;
+        printf("your amt debited sucessfully: %d\n",amount);
+        printf("your bank balance is: %d",balance);
+    }
+    else if(num==4){
+        printf("thankyou\n");
 
-    if(x>y&&x<z || x>z&&x<y){
-        printf("mid no is: %d",x);
     }
-    else if (y>x&&y<z || y>z&&y<x){
-        printf("mid no is: %d",y);
+    else{
+        printf("Invalid num\n");
     }
-     else{
-        printf("mid no is: %d",z);
-    }
-}
+} 
