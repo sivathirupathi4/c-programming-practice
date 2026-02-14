@@ -1,5 +1,5 @@
-## c-programming-practice
-# Day 1: Learned and practiced the basic fundementals of c
+# c-programming-practice
+## Day 1: Learned and practiced the basic fundementals of c
 
 This repository contains my daily C programming practice programs.
 
@@ -8,7 +8,7 @@ This repository contains my daily C programming practice programs.
 - Operators
 - Control Statements
 
-# Day 2 - Decision Making Statements
+## Day 2 - Decision Making Statements
 
 Topics Covered:
 - Nested if-else
@@ -19,6 +19,21 @@ Programs:
 - Menu-driven program using switch
 
 These concepts helped me understand how C programs make decisions based on conditions.
+
+## Day 3 - Loops and Increment/Decrement
+
+Topics Covered:
+- For loop
+- Pre-increment and post-increment
+- Pre-decrement and post-decrement
+- Understanding loop execution flow
+
+Programs Implemented:
+- Printing numbers using for loop
+- Demonstrating difference between ++i and i++
+- Demonstrating difference between --i and i--
+
+This helped me understand iteration and value changes during program execution.
 
 
 ## How to Run
