@@ -35,6 +35,16 @@ Programs Implemented:
 
 This helped me understand iteration and value changes during program execution.
 
+## Day 4 - Loop Based Problems
+
+Problems Practiced:
+- Perfect Number
+- Sum of Factors
+- Factorial of a Number
+- Power Calculation (Base & Exponent)
+
+These problems helped me strengthen my understanding of loops and mathematical logic implementation in C.
+
 
 ## How to Run
 1. Compile:
