@@ -45,6 +45,16 @@ Problems Practiced:
 
 These problems helped me strengthen my understanding of loops and mathematical logic implementation in C.
 
+## Day 5 - Basic Real-World Programs
+
+Programs Practiced:
+- Average of float numbers
+- Simple Interest calculation
+- Temperature conversion
+- Greeting message based on time
+
+These programs helped me understand real-time problem solving using C with float data types and conditional logic.
+
 
 ## How to Run
 1. Compile:
