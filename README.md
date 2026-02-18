@@ -55,6 +55,15 @@ Programs Practiced:
 
 These programs helped me understand real-time problem solving using C with float data types and conditional logic.
 
+## Day 6 - Conditional Logic Programs
+
+Programs Practiced:
+- Uppercase, Lowercase, Digit checker
+- Theatre ticket price calculation
+- Marks to Grade conversion
+
+These programs improved my understanding of conditional statements and character handling in C.
+
 
 ## How to Run
 1. Compile:
