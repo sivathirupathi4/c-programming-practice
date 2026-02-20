@@ -64,6 +64,15 @@ Programs Practiced:
 
 These programs improved my understanding of conditional statements and character handling in C.
 
+## Day 7 - Switch and Logical Programs
+
+Programs Practiced:
+- Middle number among three numbers
+- Simple calculator using switch
+- Direction selection using switch
+- Finding day of the year using switch case
+
+These programs improved my logical comparison skills and understanding of structured decision-making in C.
 
 ## How to Run
 1. Compile:
