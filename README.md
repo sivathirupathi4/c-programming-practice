@@ -74,6 +74,7 @@ Programs Practiced:
 
 These programs improved my logical comparison skills and understanding of structured decision-making in C.
 
+
 ## How to Run
 1. Compile:
    gcc filename.c -o output
