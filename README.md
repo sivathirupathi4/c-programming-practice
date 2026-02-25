@@ -74,6 +74,24 @@ Programs Practiced:
 
 These programs improved my logical comparison skills and understanding of structured decision-making in C.
 
+## Day 8 - Loop Logic Programs
+
+Programs Practiced:
+- Reverse a positive number
+- Print odd number series
+- FizzBuzz implementation
+
+These problems helped me improve my understanding of loops, modulus operator, and combined conditional logic.
+
+## Day 9 - Patterns and Series
+
+Programs Practiced:
+- Star triangle pattern
+- Digit triangle pattern
+- Power of 2 series
+
+These programs improved my understanding of nested loops and pattern generation logic in C.
+
 
 ## How to Run
 1. Compile:
