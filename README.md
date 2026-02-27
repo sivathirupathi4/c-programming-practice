@@ -92,6 +92,15 @@ Programs Practiced:
 
 These programs improved my understanding of nested loops and pattern generation logic in C.
 
+## Day 10 - Nested Loops and Palindrome
+
+Programs Practiced:
+- Incrementing number triangle pattern
+- Character incrementing pattern
+- Palindrome number check
+
+These programs strengthened my understanding of nested loops and reverse logic implementation in C.
+
 
 ## How to Run
 1. Compile:
