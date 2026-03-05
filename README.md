@@ -101,6 +101,14 @@ Programs Practiced:
 
 These programs strengthened my understanding of nested loops and reverse logic implementation in C.
 
+## Day 11 - Pattern Programs
+
+Programs Practiced:
+- Triangle pattern using nested loops
+- Symbol pattern printing ($$$***$$$)
+
+These programs helped me improve pattern generation logic and nested loop understanding in C.
+
 
 ## How to Run
 1. Compile:
