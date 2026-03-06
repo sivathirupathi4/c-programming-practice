@@ -109,6 +109,14 @@ Programs Practiced:
 
 These programs helped me improve pattern generation logic and nested loop understanding in C.
 
+## Day 12 - Arithmetic and Pattern Programs
+
+Programs Practiced:
+- Multiplication of two numbers without operator
+- Rhombus pattern printing
+
+These programs helped me strengthen arithmetic operations and nested loop logic for pattern generation in C.
+
 
 ## How to Run
 1. Compile:
