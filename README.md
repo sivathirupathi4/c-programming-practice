@@ -117,6 +117,8 @@ Programs Practiced:
 
 These programs helped me strengthen arithmetic operations and nested loop logic for pattern generation in C.
 
+## Day 13 - 
+
 
 ## How to Run
 1. Compile:
