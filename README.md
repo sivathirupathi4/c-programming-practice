@@ -117,7 +117,13 @@ Programs Practiced:
 
 These programs helped me strengthen arithmetic operations and nested loop logic for pattern generation in C.
 
-## Day 13 - 
+## Day 13 - Number Programs
+
+Programs Practiced:
+- Fibonacci series generation
+- Ap_Gp_Hp_series
+
+These programs helped me understand number sequences and mathematical logic implementation using loops in C.
 
 
 ## How to Run
