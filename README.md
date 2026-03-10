@@ -125,6 +125,14 @@ Programs Practiced:
 
 These programs helped me understand number sequences and mathematical logic implementation using loops in C.
 
+## Day 14 - Series and Pattern Programs
+
+Programs Practiced:
+- Numbers in X pattern
+- Pyramid number pattern
+
+These programs helped me understand mathematical series and complex pattern generation using nested loops in C.
+
 
 ## How to Run
 1. Compile:
