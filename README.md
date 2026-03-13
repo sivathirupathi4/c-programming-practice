@@ -133,7 +133,13 @@ Programs Practiced:
 
 These programs helped me understand mathematical series and complex pattern generation using nested loops in C.
 
-## Day 15 -
+## Day 15 - Break and Continue
+
+Topics Practiced:
+- Break statement in loops
+- Practice programs using break 
+
+These concepts helped me understand loop control and how to manage iteration flow in C programs.
 
 
 ## How to Run
