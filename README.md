@@ -141,6 +141,15 @@ Topics Practiced:
 
 These concepts helped me understand loop control and how to manage iteration flow in C programs.
 
+## Day 16 - Continue Statement Practice
+
+Topics Practiced:
+- Continue statement in loops
+- Skipping specific iterations based on conditions
+- Practice programs using continue
+
+These exercises helped me understand loop control and how to manage iteration flow more efficiently in C programs.
+
 
 ## How to Run
 1. Compile:
