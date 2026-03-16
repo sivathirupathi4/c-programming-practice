@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     int a,r,n;
     printf("Enter the First Number 'A': ");
     scanf("%d",&a);
@@ -8,10 +9,12 @@ int main(){
     printf("Enter the Number of terms 'N': ");
     scanf("%d",&n);
     
-    if(n>0){
+    if(n>0)
+{
     int AP=a;
     printf("AP = ");
-    for(int i=1;i<=n;i++){
+    for(int i=1;i<=n;i++)
+{
         printf("%d, ",AP);
         AP=AP+r;
     }
@@ -19,7 +22,8 @@ int main(){
     
     int GP=a;
     printf("GP = ");
-    for(int j=1;j<=n;j++){
+    for(int j=1;j<=n;j++)
+{
         printf("%d, ",GP);
         GP=GP*r;
     }
@@ -28,7 +32,8 @@ int main(){
     float HP=1;
     AP=a;
     printf("HP =");
-    for(int i=1;i<=n;i++){
+    for(int i=1;i<=n;i++)
+{
         
         printf(" %f, ",((float)HP)/AP);
         AP=AP+r;
