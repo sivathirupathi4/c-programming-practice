@@ -1,13 +1,16 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     int val,first,second,next=0;
    
     scanf("%d",&val);
     
-    if(val>=0){
+    if(val>=0)
+    {
         first=0;
         second=1;
-        while(first<=val){
+        while(first<=val)
+        {
             
             
             printf(" %d",first);
@@ -18,7 +21,9 @@ int main(){
             first=second;
             second=next;
     }
-    }else{
+    }
+    else
+    {
         printf("Invalid input");
     }
 }
