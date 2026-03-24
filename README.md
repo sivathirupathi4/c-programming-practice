@@ -150,6 +150,15 @@ Topics Practiced:
 
 These exercises helped me understand loop control and how to manage iteration flow more efficiently in C programs.
 
+## Day 17 - Arrays Basics
+
+Topics Practiced:
+- User-defined array input
+- Counting even and odd numbers in an array
+- Finding average of array elements
+
+These programs helped me understand how to store and process multiple values using arrays in C.
+
 
 ## How to Run
 1. Compile:
