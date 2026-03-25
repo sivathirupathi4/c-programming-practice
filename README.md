@@ -159,6 +159,15 @@ Topics Practiced:
 
 These programs helped me understand how to store and process multiple values using arrays in C.
 
+## Day 18 - Array Operations
+
+Topics Practiced:
+- Copying one array to another
+- Basic character array handling
+- Printing odd and even elements separately
+
+These programs helped me understand array manipulation and working with character data in C.
+
 
 ## How to Run
 1. Compile:
