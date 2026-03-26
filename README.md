@@ -168,6 +168,15 @@ Topics Practiced:
 
 These programs helped me understand array manipulation and working with character data in C.
 
+## Day 19 - Advanced Array Problems
+
+Topics Practiced:
+- Removing duplicate elements from an array
+- Comparing two arrays
+- Reversing an array
+
+These problems helped me improve array manipulation and logical problem-solving skills in C.
+
 
 ## How to Run
 1. Compile:
