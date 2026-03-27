@@ -177,7 +177,13 @@ Topics Practiced:
 
 These problems helped me improve array manipulation and logical problem-solving skills in C.
 
+## Day 20 - Array Problems
 
+Topics Practiced:
+- Finding largest element in an array
+- Median of two unsorted arrays
+
+These problems helped me improve comparison logic and understanding of array-based problem solving in C.
 ## How to Run
 1. Compile:
    gcc filename.c -o output
