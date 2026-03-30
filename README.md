@@ -184,6 +184,18 @@ Topics Practiced:
 - Median of two unsorted arrays
 
 These problems helped me improve comparison logic and understanding of array-based problem solving in C.
+
+## Day 21 - Functions Basics
+
+Topics Practiced:
+- Creating and using functions
+- Sum of two numbers using function
+- Product without using multiplication operator
+- Prime number check using function
+
+These programs helped me understand code modularity and writing reusable functions in C.
+
+
 ## How to Run
 1. Compile:
    gcc filename.c -o output
