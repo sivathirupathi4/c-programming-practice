@@ -195,6 +195,16 @@ Topics Practiced:
 
 These programs helped me understand code modularity and writing reusable functions in C.
 
+## Day 22 - Character Functions (Custom Implementation)
+
+Topics Practiced:
+- Implementing isalnum without library function
+- Implementing islower using conditions
+- Implementing ispunct logic
+- Implementing isxdigit logic
+
+These programs helped me understand ASCII values and how standard character functions work internally in C.
+
 
 ## How to Run
 1. Compile:
