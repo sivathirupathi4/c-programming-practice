@@ -205,6 +205,16 @@ Topics Practiced:
 
 These programs helped me understand ASCII values and how standard character functions work internally in C.
 
+## Day 23 - Pointers Basics
+
+Topics Practiced:
+- Introduction to pointers
+- Pointer rules (basic understanding)
+- Address and dereference operators
+- Simple pointer-based programs
+
+These concepts helped me understand memory access and the role of pointers in C programming.
+
 
 ## How to Run
 1. Compile:
