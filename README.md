@@ -215,6 +215,15 @@ Topics Practiced:
 
 These concepts helped me understand memory access and the role of pointers in C programming.
 
+## Day 24 - Advanced Pointers and Endianness
+
+Topics Practiced:
+- Pointer Rule 4 and Rule 5
+- Little Endian and Big Endian systems
+- Memory representation of data
+
+These concepts helped me understand low-level memory handling and system architecture in C.
+
 
 ## How to Run
 1. Compile:
