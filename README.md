@@ -224,6 +224,15 @@ Topics Practiced:
 
 These concepts helped me understand low-level memory handling and system architecture in C.
 
+## Day 25 - Pointer-Based Problems
+
+Topics Practiced:
+- Square of array elements using pointers
+- Sum and product of two numbers using pointers
+- Square and cube calculation using pointers
+
+These programs helped me apply pointers in problem-solving and understand memory-based operations in C.
+
 
 ## How to Run
 1. Compile:
