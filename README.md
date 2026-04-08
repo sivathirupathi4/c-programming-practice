@@ -233,6 +233,15 @@ Topics Practiced:
 
 These programs helped me apply pointers in problem-solving and understand memory-based operations in C.
 
+## Day 26 - Pointer Problems
+
+problems:
+-Square of Numbers
+-Swap_tow_numbers
+-Average of array elements
+
+These programs helped me to understand deeper in concepts in pointers and next concepts are interesting I am eager to learn that...
+
 
 ## How to Run
 1. Compile:
