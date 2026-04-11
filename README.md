@@ -242,6 +242,17 @@ problems:
 
 These programs helped me to understand deeper in concepts in pointers and next concepts are interesting I am eager to learn that...
 
+## Day 27 - Recursion
+
+Topics Practiced:
+- Introduction to recursion
+- Base case and recursive case
+- Factorial using recursion
+- Fibonacci using recursion
+- Sum and other problems using recursion
+
+These programs helped me understand function call stack and solving problems using recursive approach in C.
+
 
 ## How to Run
 1. Compile:
