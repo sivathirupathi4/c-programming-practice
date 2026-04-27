@@ -253,6 +253,15 @@ Topics Practiced:
 
 These programs helped me understand function call stack and solving problems using recursive approach in C.
 
+## Day 28 - recursion problems
+
+Topics Practiced:
+- Negative fibonacci
+- Sum of digits in a number
+- Sum of sequence upto n.
+
+These programs helped me to understand the recursion of functions.
+
 
 ## How to Run
 1. Compile:
