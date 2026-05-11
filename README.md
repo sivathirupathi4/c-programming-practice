@@ -271,6 +271,15 @@ Topics Practiced:
 
 These problems helped me to how str to int works.
 
+## Day 30 - String problems
+
+Program Practiced:
+- getword
+- Remove Blank spaces
+- Reverse the string using iterative method
+
+These problems helped me to get confidence in string concepts.
+
 
 ## How to Run
 1. Compile:
