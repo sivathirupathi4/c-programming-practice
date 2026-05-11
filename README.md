@@ -262,6 +262,15 @@ Topics Practiced:
 
 These programs helped me to understand the recursion of functions.
 
+## Day 29 - Strings
+
+Topics Practiced:
+- Integer to String
+- String to Integer
+- Strtok
+
+These problems helped me to how str to int works.
+
 
 ## How to Run
 1. Compile:
