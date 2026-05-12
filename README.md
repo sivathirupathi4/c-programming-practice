@@ -280,6 +280,20 @@ Program Practiced:
 
 These problems helped me to get confidence in string concepts.
 
+## Day 31 - Structures
+
+Program Practiced:
+- array to structure
+- print structure members
+- Structure passing to function
+
+## Day 32 - Bitwise
+
+programs:
+- set clear get nth bit
+- set clear get n bits
+- get the set bits
+
 
 ## How to Run
 1. Compile:
